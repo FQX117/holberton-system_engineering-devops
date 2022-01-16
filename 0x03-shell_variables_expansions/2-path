@@ -1,1 +1,3 @@
 #!/bin/bash
+user=str(input("whoami: "))
+print("hello",user)
