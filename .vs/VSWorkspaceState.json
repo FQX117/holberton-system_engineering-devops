@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x02-shell_redirections"
+    "\\0x03-shell_variables_expansions"
   ],
+  "SelectedNode": "\\0x03-shell_variables_expansions\\1-hello_you",
   "PreviewInSolutionExplorer": false
 }
