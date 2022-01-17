@@ -1,2 +1,3 @@
 #!/bin/bash
-set school best 
+BEST=School
+echo School
