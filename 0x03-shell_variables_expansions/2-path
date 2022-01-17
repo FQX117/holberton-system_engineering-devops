@@ -1,3 +1,2 @@
 #!/bin/bash
-usertext = input("what is your name")
-print("Hello", usertext)
+export PATH=$PATH:/action 
