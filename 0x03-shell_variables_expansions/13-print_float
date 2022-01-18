@@ -1,2 +1,2 @@
 #!/bin/bash
-printf .00 num
+printf 2.31 num
