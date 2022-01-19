@@ -1,4 +1,5 @@
-#!/bin/env bash
+#!/usr/bin/env bash
+#say hi
 i=1
 while [ $i -le 11 ];
 do
