@@ -1,1 +1,3 @@
 #!/bin/bash
+for (int i=0; i<11; i++){
+printf ("Best School\n")}
