@@ -2,5 +2,5 @@
 # so lost
 for ls in $list
 do
-echo $i |cut -d "-" -f2
+echo ls |cut -d "-" -f2
 done
