@@ -1,0 +1,17 @@
+#!/bin/bash
+for (( i=1; i<21; i++))
+do
+echo "$i"
+if [ $i -eq 4 ];
+then
+echo "bad luck from China"
+fi
+if [ $i -eq 9 ];
+then
+echo "bad luck from Japan"
+fi
+if [ $i -eq 17 ];
+then
+echo "bad luck from Italy"
+fi
+done
