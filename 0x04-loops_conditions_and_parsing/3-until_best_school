@@ -1,4 +1,5 @@
-#!/bin/env bash
+#!/usr/bin/env bash
+#until 10
 NUM=1
 until [ $NUM -ge 11 ]
 do
