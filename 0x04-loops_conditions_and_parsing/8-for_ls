@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # so lost
-for i in ls
+ls=$list
+for i in $list
 do
 echo $i |cut -d "-" -f2
 done
