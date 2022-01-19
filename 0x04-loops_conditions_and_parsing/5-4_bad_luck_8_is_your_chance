@@ -1,4 +1,5 @@
-#!/bin/env bash
+#!/usr/bin/env bash
+# the good the bad and the ugly
 i=1
 while [$i -le 11 ];
 do
