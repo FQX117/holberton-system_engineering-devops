@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #1 to 20
 i=1
-while
+while i in {1..20}
 do 
 echo "$i"
 case $i in
