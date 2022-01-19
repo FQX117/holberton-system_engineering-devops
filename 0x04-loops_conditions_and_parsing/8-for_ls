@@ -4,3 +4,4 @@ for i in ./
 do
 ls |cut -d "-" -f2
 done
+export i
