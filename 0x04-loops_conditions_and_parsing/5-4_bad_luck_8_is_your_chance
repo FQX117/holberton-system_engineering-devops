@@ -1,14 +1,14 @@
 #!/bin/bash
-for (( i=0; i<10; i++))
+i=1
+while [$i -le 11 ];
 do
-if [ $i -eq 3 ];
+if [ $i -eq 4 ];
 then
 echo "bad luck"
-else
-echo "Best School"
-fi
-if [ $i -eq 7 ];
-then
+elif [ $i -eq 8 ];
+then 
 echo "good luck"
-fi
+else 
+echo "best school"
+i=$(( i+1 ))
 done
