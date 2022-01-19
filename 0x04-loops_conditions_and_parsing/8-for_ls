@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # dir list 
-for i in ./
+for i in dir/*
 do
 ls |cut -d "-" -f2
 done
