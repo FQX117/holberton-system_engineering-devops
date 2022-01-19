@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# so lost
+# dir list 
 for i in ./ 
 do
 ls |cut -d "-" -f2
