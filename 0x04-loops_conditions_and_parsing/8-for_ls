@@ -1,4 +1,5 @@
-#!/bin/env bash
+#!/usr/bin/env bash
+# so lost
 for in (./);
 do
 ls ./*-
