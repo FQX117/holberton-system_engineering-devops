@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # dir list 
-for i in dir/*
+l=$ls
+for i in $l;
 do
-find ./* |cut -d "-" -f2
+echo $i |cut -d "-" -f2
 done
-export i
