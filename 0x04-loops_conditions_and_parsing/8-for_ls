@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # so lost
-for 
+for i in ./ 
 do
 ls |cut -d "-" -f2
 done
