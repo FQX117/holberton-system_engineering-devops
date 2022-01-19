@@ -1,0 +1,7 @@
+#!/bin/bash
+NUM=1
+while [ $NUM -le 10 ]
+do
+echo "Best School"
+NUM=$(( NUM+1 ))
+done
