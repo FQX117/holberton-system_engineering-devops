@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 h=0
 while [$ -le 12 ];
 do
