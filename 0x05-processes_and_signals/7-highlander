@@ -1,4 +1,4 @@
-#!/usr/bin/evn bash
+#!/usr/bin/env bash
 # Norse Gods
 trap "echo I am invincible!!!" 15
 while true
