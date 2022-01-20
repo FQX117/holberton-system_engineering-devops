@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # here we go
+0-what-is-my-pid
 ps aux | pgrep 0-what-is-my-pid |awk '{print $2}'
