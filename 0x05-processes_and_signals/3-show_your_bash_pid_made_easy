@@ -1,0 +1,3 @@
+#!/usr/bin/evn bash
+# is it easy?
+pgrep -u root bash -1
