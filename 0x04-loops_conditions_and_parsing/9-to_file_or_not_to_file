@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #info chanel
-if [ -f "$School" ];
+if [ -e "$School" ];
 then 
 echo "school file exists"
 else
