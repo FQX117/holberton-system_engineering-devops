@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # here we go
+# shellcheck disable=SC2009
 ps aux | grep 0-what-is-my-pid |awk '{print $2}'
