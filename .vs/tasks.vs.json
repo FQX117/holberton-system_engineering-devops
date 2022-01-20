@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-10-fizzbuzz",
+      "appliesTo": "0x04-loops_conditions_and_parsing/10-fizzbuzz",
+      "type": "launch"
+    }
+  ]
+}
