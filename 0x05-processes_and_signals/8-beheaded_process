@@ -1,3 +1,3 @@
 #!/usr/bin/ evn bash
-# What Prosses!?!?!?!?!
-ps
+# kill them all
+kill -9 $(ps aux | grep 7-highlander | grep -v grep |awk '{print $2}')
